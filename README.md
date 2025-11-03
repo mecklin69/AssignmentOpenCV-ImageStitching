@@ -94,8 +94,8 @@ To fix black seams and small missing patches, I used a combination of:
 - **Final size:** 12,516 × 11,136 px  
 - **Tiles stitched:** 70  
 - **Output:** `stitched_registered.jpg` and `.ome.tif`  
-- **Visual quality:** Mostly seamless, minor exposure differences remain  
-- **Memory usage:** Manageable (< 8 GB peak)
+- **Visual quality:** Mostly feasible, exposure differences remain, it can be improved 
+- **Memory usage:** (< 8 GB peak)
 
 ---
 
