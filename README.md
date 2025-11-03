@@ -123,8 +123,8 @@ To fix black seams and small missing patches, I used a combination of:
 
 ## Final Thoughts
 
-This was a good experiment assignment in understanding how commercial stitching tools like Ashlar actually work under the hood.  
-It’s still not perfect — some edges are off, and there are light seams here and there — but it’s impressive how far OpenCV can go with the right combination of RANSAC, ECC, and blending.
+This was a good assignment in understanding how commercial stitching tools like Ashlar actually work under the hood.  
+It’s still not perfect — some edges are off, and there are light seams here and there but this is what I was able to achieve from using image tools for first time and understanding how image blending works
   
 For now, this pipeline gives me a transparent and reproducible way to stitch microscope slides entirely offline — no external dependencies, no hidden black boxes. This is the best i thought of time is running out i tried ashlar but i wasnt able to achieve, so i looked uo the internet youtube and ai, and found my way through above mentioned methodolgy.
 
@@ -132,4 +132,5 @@ For now, this pipeline gives me a transparent and reproducible way to stitch mic
 
 *Written and developed by*  
 **Priyanshu Srivastava**  
-2025
+6387629139
+Java/Python/AWS Developer 
