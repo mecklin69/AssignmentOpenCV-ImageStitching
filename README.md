@@ -96,6 +96,7 @@ To fix black seams and small missing patches, I used a combination of:
 - **Output:** `stitched_registered.jpg` and `.ome.tif`  
 - **Visual quality:** Mostly feasible, exposure differences remain, it can be improved 
 - **Memory usage:** (< 8 GB peak)
+  .tif link https://drive.google.com/file/d/1QeZUDZWYgUi9ClTFpYFoaXeU1oYHHaEV/view?usp=sharing
 
 ---
 
