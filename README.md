@@ -8,7 +8,7 @@
 This is a research project I worked on to stitch about **70 microscope image tiles** into one large, high-resolution composite.  
 Each image was captured at the same focal depth but with a small overlap (roughly 8%).  
 
-I wanted to build everything from scratch using **OpenCV** instead of relying on **Ashlar** or any commercial stitching tool.  
+I wanted to build everything from scratch using **OpenCV** instead of relying on **Ashlar** or any commercial stitching tool. I used the IDLE direct compiler
 The main idea was to use **feature matching (SIFT + RANSAC)** for geometric alignment and then blend the images smoothly with **Feather blending**.
 
 ---
