@@ -5,7 +5,7 @@
 
 ## Overview
 
-This is a small research project I worked on to stitch about **70 microscope image tiles** into one large, high-resolution composite.  
+This is a research project I worked on to stitch about **70 microscope image tiles** into one large, high-resolution composite.  
 Each image was captured at the same focal depth but with a small overlap (roughly 8%).  
 
 I wanted to build everything from scratch using **OpenCV** instead of relying on **Ashlar** or any commercial stitching tool.  
